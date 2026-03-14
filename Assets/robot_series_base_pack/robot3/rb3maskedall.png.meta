@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 9c158bd6d9864f546a44147d6ab51419
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1616375459467321876
+    second: rb3maskedall_0
+  - first:
+      213: -6422016234349682454
+    second: rb3maskedall_1
+  - first:
+      213: 4910806294838317484
+    second: rb3maskedall_2
+  - first:
+      213: -8540809555583032138
+    second: rb3maskedall_3
+  - first:
+      213: 6574997894524023309
+    second: rb3maskedall_4
+  - first:
+      213: -618036286274030035
+    second: rb3maskedall_5
+  - first:
+      213: -7050042040907925175
+    second: rb3maskedall_6
+  - first:
+      213: -5528039015412832826
+    second: rb3maskedall_7
+  - first:
+      213: -5311413417831905746
+    second: rb3maskedall_8
+  - first:
+      213: -5422332936487290718
+    second: rb3maskedall_9
+  - first:
+      213: -2239586937434022642
+    second: rb3maskedall_10
+  - first:
+      213: -3569437078560044268
+    second: rb3maskedall_11
+  - first:
+      213: -1821839243383490415
+    second: rb3maskedall_12
+  - first:
+      213: -4969337239333296994
+    second: rb3maskedall_13
+  - first:
+      213: 1085022107675791256
+    second: rb3maskedall_14
+  - first:
+      213: 3976011392336038723
+    second: rb3maskedall_15
+  - first:
+      213: -1191528653454848538
+    second: rb3maskedall_16
+  - first:
+      213: -4386821188379464524
+    second: rb3maskedall_17
+  - first:
+      213: -9057135939295206386
+    second: rb3maskedall_18
+  - first:
+      213: -2997442787101944564
+    second: rb3maskedall_19
+  - first:
+      213: -3531181316781551111
+    second: rb3maskedall_20
+  - first:
+      213: 4010620497483728935
+    second: rb3maskedall_21
+  - first:
+      213: 967032841676835477
+    second: rb3maskedall_22
+  - first:
+      213: -1160118493846862598
+    second: rb3maskedall_23
+  - first:
+      213: -5009837041037461585
+    second: rb3maskedall_24
+  - first:
+      213: -5715452962483180267
+    second: rb3maskedall_25
+  - first:
+      213: 9181066415635684221
+    second: rb3maskedall_26
+  - first:
+      213: -8407058382876956176
+    second: rb3maskedall_27
+  - first:
+      213: -1458402732796823276
+    second: rb3maskedall_28
+  - first:
+      213: 2626952518744064658
+    second: rb3maskedall_29
+  - first:
+      213: -1966446930337000396
+    second: rb3maskedall_30
+  - first:
+      213: -2779017968894758644
+    second: rb3maskedall_31
+  - first:
+      213: -7567830234529457519
+    second: rb3maskedall_32
+  - first:
+      213: -2461146025460595097
+    second: rb3maskedall_33
+  - first:
+      213: -2818103881383008967
+    second: rb3maskedall_34
+  - first:
+      213: 873625318713072077
+    second: rb3maskedall_35
+  - first:
+      213: 2254396857899002958
+    second: rb3maskedall_36
+  - first:
+      213: 8772327637949399280
+    second: rb3maskedall_37
+  - first:
+      213: 2306302762938970281
+    second: rb3maskedall_38
+  - first:
+      213: 3097057105293269564
+    second: rb3maskedall_39
+  - first:
+      213: 8511488122569497197
+    second: rb3maskedall_40
+  - first:
+      213: 772076659860630199
+    second: rb3maskedall_41
+  - first:
+      213: -4285780646052378877
+    second: rb3maskedall_42
+  - first:
+      213: 6674280466388667424
+    second: rb3maskedall_43
+  - first:
+      213: -8773323531842411805
+    second: rb3maskedall_44
+  - first:
+      213: -5127012529127869505
+    second: rb3maskedall_45
+  - first:
+      213: 6095842282603032884
+    second: rb3maskedall_46
+  - first:
+      213: 4097816893077054891
+    second: rb3maskedall_47
+  - first:
+      213: -6244159588822556781
+    second: rb3maskedall_48
+  - first:
+      213: 657759914332701450
+    second: rb3maskedall_49
+  - first:
+      213: 6914598202709262085
+    second: rb3maskedall_50
+  - first:
+      213: -4053583777653959128
+    second: rb3maskedall_51
+  - first:
+      213: -6704537486236131909
+    second: rb3maskedall_52
+  - first:
+      213: 3454625871449596260
+    second: rb3maskedall_53
+  - first:
+      213: -1503815416990565446
+    second: rb3maskedall_54
+  - first:
+      213: 5589696474275112723
+    second: rb3maskedall_55
+  - first:
+      213: 8669960806218011775
+    second: rb3maskedall_56
+  - first:
+      213: 3334029363775220973
+    second: rb3maskedall_57
+  - first:
+      213: 1444359717621894286
+    second: rb3maskedall_58
+  - first:
+      213: -8458681045051664874
+    second: rb3maskedall_59
+  - first:
+      213: 1109106311347031415
+    second: rb3maskedall_60
+  - first:
+      213: -209361206431699938
+    second: rb3maskedall_61
+  - first:
+      213: -7808647442347394029
+    second: rb3maskedall_62
+  - first:
+      213: -2044320285066246181
+    second: rb3maskedall_63
+  - first:
+      213: -8218247211410238021
+    second: rb3maskedall_64
+  - first:
+      213: -1359418646899117904
+    second: rb3maskedall_65
+  - first:
+      213: 2579509385815883350
+    second: rb3maskedall_66
+  - first:
+      213: -2272946120428253899
+    second: rb3maskedall_67
+  - first:
+      213: 1239134819255217790
+    second: rb3maskedall_68
+  - first:
+      213: -8128662562210851582
+    second: rb3maskedall_69
+  - first:
+      213: 8807596412602405105
+    second: rb3maskedall_70
+  - first:
+      213: 7217860634805625502
+    second: rb3maskedall_71
+  - first:
+      213: -6685850255544768368
+    second: rb3maskedall_72
+  - first:
+      213: 1015087613981305604
+    second: rb3maskedall_73
+  - first:
+      213: -8938745687635563239
+    second: rb3maskedall_74
+  - first:
+      213: 7339968061445632436
+    second: rb3maskedall_75
+  - first:
+      213: 379263372609308420
+    second: rb3maskedall_76
+  - first:
+      213: 4799999416018100235
+    second: rb3maskedall_77
+  - first:
+      213: 5227139205347498850
+    second: rb3maskedall_78
+  - first:
+      213: 614666567506903131
+    second: rb3maskedall_79
+  - first:
+      213: -8820879628681949548
+    second: rb3maskedall_80
+  - first:
+      213: -542324965158254566
+    second: rb3maskedall_81
+  - first:
+      213: -5721288795698422312
+    second: rb3maskedall_82
+  - first:
+      213: -4715335434346575556
+    second: rb3maskedall_83
+  - first:
+      213: -465983560723779241
+    second: rb3maskedall_84
+  - first:
+      213: -5980178049168320554
+    second: rb3maskedall_85
+  - first:
+      213: 9211937713691357175
+    second: rb3maskedall_86
+  - first:
+      213: -1473857146253578893
+    second: rb3maskedall_87
+  - first:
+      213: 2083554222866065179
+    second: rb3maskedall_88
+  - first:
+      213: 1106357663011552106
+    second: rb3maskedall_89
+  - first:
+      213: 8565094764722021115
+    second: rb3maskedall_90
+  - first:
+      213: -6848081854182907554
+    second: rb3maskedall_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rb3maskedall_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412653d9ae48e6610800000000000000
+      internalID: 1616375459467321876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 319
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0abc9924a60e6a0800000000000000
+      internalID: -6422016234349682454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1179c7e40b62440800000000000000
+      internalID: 4910806294838317484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 319
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42639d5f2f87980800000000000000
+      internalID: -8540809555583032138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 319
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bb0ecfb51f3b50800000000000000
+      internalID: 6574997894524023309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 319
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26b55aa54b4c67f0800000000000000
+      internalID: -618036286274030035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fc14dd18392e90800000000000000
+      internalID: -7050042040907925175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 319
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c561d5edc57843b0800000000000000
+      internalID: -5528039015412832826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 287
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c2e633a11a46b0800000000000000
+      internalID: -5311413417831905746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a836ca4ce000c4b0800000000000000
+      internalID: -5422332936487290718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd3a6db836be0e0800000000000000
+      internalID: -2239586937434022642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b025483efc67ec0800000000000000
+      internalID: -3569437078560044268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198b2445cd687b6e0800000000000000
+      internalID: -1821839243383490415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e942b680c1e590bb0800000000000000
+      internalID: -4969337239333296994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 287
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f0675bbd5ce0f00800000000000000
+      internalID: 1085022107675791256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8817ab41ad2730800000000000000
+      internalID: 3976011392336038723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 239
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edcf1fa007d67fe0800000000000000
+      internalID: -1191528653454848538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 240
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc2c7d1f51ee13c0800000000000000
+      internalID: -4386821188379464524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a2e799d69e4280800000000000000
+      internalID: -9057135939295206386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 239
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c055b309aa1f666d0800000000000000
+      internalID: -2997442787101944564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15db72d49befec0800000000000000
+      internalID: -3531181316781551111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 239
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280b61e71698a730800000000000000
+      internalID: 4010620497483728935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ac846fe379b6d00800000000000000
+      internalID: 967032841676835477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af485ec506e66efe0800000000000000
+      internalID: -1160118493846862598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73e5221cb797ab0800000000000000
+      internalID: -5009837041037461585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 175
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d6cb8ffc1aea0b0800000000000000
+      internalID: -5715452962483180267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 207
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bdb3bf243b96f70800000000000000
+      internalID: 9181066415635684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f926aa71f0245b80800000000000000
+      internalID: -8407058382876956176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419bf240176b2cbe0800000000000000
+      internalID: -1458402732796823276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 207
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ce89c56fc47420800000000000000
+      internalID: 2626952518744064658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 207
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4341b9f7fe6c5b4e0800000000000000
+      internalID: -1966446930337000396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b99391e1fe69d0800000000000000
+      internalID: -2779017968894758644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 175
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a196e6f7aa9f690800000000000000
+      internalID: -7567830234529457519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668e04cab048ddd0800000000000000
+      internalID: -2461146025460595097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935240a637514e8d0800000000000000
+      internalID: -2818103881383008967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc91ea4499dbf1c00800000000000000
+      internalID: 873625318713072077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 143
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca3d97ff9394f10800000000000000
+      internalID: 2254396857899002958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 175
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c05942819db970800000000000000
+      internalID: 8772327637949399280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 175
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ba71c422a10020800000000000000
+      internalID: 2306302762938970281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 175
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ada124705fafa20800000000000000
+      internalID: 3097057105293269564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 143
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a16b70a51ee1670800000000000000
+      internalID: 8511488122569497197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baec5aa1a7f6ba00800000000000000
+      internalID: 772076659860630199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307cdce9539d584c0800000000000000
+      internalID: -4285780646052378877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 111
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccc6ae8becf9c50800000000000000
+      internalID: 6674280466388667424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e225f81bb4ee3680800000000000000
+      internalID: -8773323531842411805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 143
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb33b52d44139d8b0800000000000000
+      internalID: -5127012529127869505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 111
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4313c554248c89450800000000000000
+      internalID: 6095842282603032884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 143
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e37ac0ce5ed830800000000000000
+      internalID: 4097816893077054891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd16bdfe94859a0800000000000000
+      internalID: -6244159588822556781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 111
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ca493825d02900800000000000000
+      internalID: 657759914332701450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 143
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f3a052e6695ff50800000000000000
+      internalID: 6914598202709262085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_51
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 111
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82656a1f707ceb7c0800000000000000
+      internalID: -4053583777653959128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_52
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 111
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdda9dada2b4f2a0800000000000000
+      internalID: -6704537486236131909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461a0ab3deb41ff20800000000000000
+      internalID: 3454625871449596260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb758688df512be0800000000000000
+      internalID: -1503815416990565446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317eb6fe357929d40800000000000000
+      internalID: 5589696474275112723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741f27fa63e15870800000000000000
+      internalID: 8669960806218011775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 111
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2b8aba0ad44e20800000000000000
+      internalID: 3334029363775220973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c8cb8b2856b0410800000000000000
+      internalID: 1444359717621894286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 111
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6169d51d76abc9a80800000000000000
+      internalID: -8458681045051664874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_60
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 111
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dcbf95056546f00800000000000000
+      internalID: 1109106311347031415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c24ec8713381df0800000000000000
+      internalID: -209361206431699938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cfe9ee58c12a390800000000000000
+      internalID: -7808647442347394029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd74081388d11a3e0800000000000000
+      internalID: -2044320285066246181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55c8f04bbe2fd80800000000000000
+      internalID: -8218247211410238021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0398271ff522de0800000000000000
+      internalID: -1359418646899117904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_66
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 48
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e775c9e124cc320800000000000000
+      internalID: 2579509385815883350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 48
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d854acb8fd470e0800000000000000
+      internalID: -2272946120428253899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e668a8d8a423110800000000000000
+      internalID: 1239134819255217790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205d7689770313f80800000000000000
+      internalID: -8128662562210851582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0db2ac54eda3a70800000000000000
+      internalID: 8807596412602405105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926dd7610efa2460800000000000000
+      internalID: 7217860634805625502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098acc0ad961733a0800000000000000
+      internalID: -6685850255544768368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b21478ec0561e00800000000000000
+      internalID: 1015087613981305604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6de6182233f380800000000000000
+      internalID: -8938745687635563239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 20
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1fd25201eccd560800000000000000
+      internalID: 7339968061445632436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 18
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c1b8270a634500800000000000000
+      internalID: 379263372609308420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_77
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0067d199060d9240800000000000000
+      internalID: 4799999416018100235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b5146a9678a8840800000000000000
+      internalID: 5227139205347498850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ce8b8cfbb78800800000000000000
+      internalID: 614666567506903131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecee576b0f59580800000000000000
+      internalID: -8820879628681949548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188aea41564978f0800000000000000
+      internalID: -542324965158254566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd19fa2726e990b0800000000000000
+      internalID: -5721288795698422312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c5f6c763cf8eb0800000000000000
+      internalID: -4715335434346575556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75133ef9b6e7889f0800000000000000
+      internalID: -465983560723779241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 23
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7dbb5afb3220da0800000000000000
+      internalID: -5980178049168320554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_86
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffe89d2b8067df70800000000000000
+      internalID: 9211937713691357175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_87
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d62ebfbbecb8be0800000000000000
+      internalID: -1473857146253578893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17623cc6854aec10800000000000000
+      internalID: 2083554222866065179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bb55ace629a5f00800000000000000
+      internalID: 1106357663011552106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf260d60f445dd670800000000000000
+      internalID: 8565094764722021115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rb3maskedall_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5121a816d9b6f0a0800000000000000
+      internalID: -6848081854182907554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rb3maskedall_0: 1616375459467321876
+      rb3maskedall_1: -6422016234349682454
+      rb3maskedall_10: -2239586937434022642
+      rb3maskedall_11: -3569437078560044268
+      rb3maskedall_12: -1821839243383490415
+      rb3maskedall_13: -4969337239333296994
+      rb3maskedall_14: 1085022107675791256
+      rb3maskedall_15: 3976011392336038723
+      rb3maskedall_16: -1191528653454848538
+      rb3maskedall_17: -4386821188379464524
+      rb3maskedall_18: -9057135939295206386
+      rb3maskedall_19: -2997442787101944564
+      rb3maskedall_2: 4910806294838317484
+      rb3maskedall_20: -3531181316781551111
+      rb3maskedall_21: 4010620497483728935
+      rb3maskedall_22: 967032841676835477
+      rb3maskedall_23: -1160118493846862598
+      rb3maskedall_24: -5009837041037461585
+      rb3maskedall_25: -5715452962483180267
+      rb3maskedall_26: 9181066415635684221
+      rb3maskedall_27: -8407058382876956176
+      rb3maskedall_28: -1458402732796823276
+      rb3maskedall_29: 2626952518744064658
+      rb3maskedall_3: -8540809555583032138
+      rb3maskedall_30: -1966446930337000396
+      rb3maskedall_31: -2779017968894758644
+      rb3maskedall_32: -7567830234529457519
+      rb3maskedall_33: -2461146025460595097
+      rb3maskedall_34: -2818103881383008967
+      rb3maskedall_35: 873625318713072077
+      rb3maskedall_36: 2254396857899002958
+      rb3maskedall_37: 8772327637949399280
+      rb3maskedall_38: 2306302762938970281
+      rb3maskedall_39: 3097057105293269564
+      rb3maskedall_4: 6574997894524023309
+      rb3maskedall_40: 8511488122569497197
+      rb3maskedall_41: 772076659860630199
+      rb3maskedall_42: -4285780646052378877
+      rb3maskedall_43: 6674280466388667424
+      rb3maskedall_44: -8773323531842411805
+      rb3maskedall_45: -5127012529127869505
+      rb3maskedall_46: 6095842282603032884
+      rb3maskedall_47: 4097816893077054891
+      rb3maskedall_48: -6244159588822556781
+      rb3maskedall_49: 657759914332701450
+      rb3maskedall_5: -618036286274030035
+      rb3maskedall_50: 6914598202709262085
+      rb3maskedall_51: -4053583777653959128
+      rb3maskedall_52: -6704537486236131909
+      rb3maskedall_53: 3454625871449596260
+      rb3maskedall_54: -1503815416990565446
+      rb3maskedall_55: 5589696474275112723
+      rb3maskedall_56: 8669960806218011775
+      rb3maskedall_57: 3334029363775220973
+      rb3maskedall_58: 1444359717621894286
+      rb3maskedall_59: -8458681045051664874
+      rb3maskedall_6: -7050042040907925175
+      rb3maskedall_60: 1109106311347031415
+      rb3maskedall_61: -209361206431699938
+      rb3maskedall_62: -7808647442347394029
+      rb3maskedall_63: -2044320285066246181
+      rb3maskedall_64: -8218247211410238021
+      rb3maskedall_65: -1359418646899117904
+      rb3maskedall_66: 2579509385815883350
+      rb3maskedall_67: -2272946120428253899
+      rb3maskedall_68: 1239134819255217790
+      rb3maskedall_69: -8128662562210851582
+      rb3maskedall_7: -5528039015412832826
+      rb3maskedall_70: 8807596412602405105
+      rb3maskedall_71: 7217860634805625502
+      rb3maskedall_72: -6685850255544768368
+      rb3maskedall_73: 1015087613981305604
+      rb3maskedall_74: -8938745687635563239
+      rb3maskedall_75: 7339968061445632436
+      rb3maskedall_76: 379263372609308420
+      rb3maskedall_77: 4799999416018100235
+      rb3maskedall_78: 5227139205347498850
+      rb3maskedall_79: 614666567506903131
+      rb3maskedall_8: -5311413417831905746
+      rb3maskedall_80: -8820879628681949548
+      rb3maskedall_81: -542324965158254566
+      rb3maskedall_82: -5721288795698422312
+      rb3maskedall_83: -4715335434346575556
+      rb3maskedall_84: -465983560723779241
+      rb3maskedall_85: -5980178049168320554
+      rb3maskedall_86: 9211937713691357175
+      rb3maskedall_87: -1473857146253578893
+      rb3maskedall_88: 2083554222866065179
+      rb3maskedall_89: 1106357663011552106
+      rb3maskedall_9: -5422332936487290718
+      rb3maskedall_90: 8565094764722021115
+      rb3maskedall_91: -6848081854182907554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

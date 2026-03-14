@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b28bc1fa8164a6847ab355e760db5c55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6197733616658840814
+    second: explode-Sheet[64height64wide]_0
+  - first:
+      213: -3958519273882708571
+    second: explode-Sheet[64height64wide]_1
+  - first:
+      213: 3712252894194212978
+    second: explode-Sheet[64height64wide]_2
+  - first:
+      213: -4475804387601613653
+    second: explode-Sheet[64height64wide]_3
+  - first:
+      213: -7524377261800649234
+    second: explode-Sheet[64height64wide]_4
+  - first:
+      213: -2413862256069299159
+    second: explode-Sheet[64height64wide]_5
+  - first:
+      213: 5538959980341795221
+    second: explode-Sheet[64height64wide]_6
+  - first:
+      213: 809845449681939693
+    second: explode-Sheet[64height64wide]_7
+  - first:
+      213: 6750071383465532039
+    second: explode-Sheet[64height64wide]_8
+  - first:
+      213: -8666994442893473690
+    second: explode-Sheet[64height64wide]_9
+  - first:
+      213: 3302751113486841048
+    second: explode-Sheet[64height64wide]_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec727923e5c20650800000000000000
+      internalID: 6197733616658840814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51fab81b38019c0800000000000000
+      internalID: -3958519273882708571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270acd2c652948330800000000000000
+      internalID: 3712252894194212978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacfed09f9fb2e1c0800000000000000
+      internalID: -4475804387601613653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 18
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed885a0fba049790800000000000000
+      internalID: -7524377261800649234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 29
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924344a311d308ed0800000000000000
+      internalID: -2413862256069299159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599906561c65edc40800000000000000
+      internalID: 5538959980341795221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 26
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec224f45262d3b00800000000000000
+      internalID: 809845449681939693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 30
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1efbe8221dad50800000000000000
+      internalID: 6750071383465532039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 15
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668cc015976a8b780800000000000000
+      internalID: -8666994442893473690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explode-Sheet[64height64wide]_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b8e493aab5dd20800000000000000
+      internalID: 3302751113486841048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explode-Sheet[64height64wide]_0: 6197733616658840814
+      explode-Sheet[64height64wide]_1: -3958519273882708571
+      explode-Sheet[64height64wide]_10: 3302751113486841048
+      explode-Sheet[64height64wide]_2: 3712252894194212978
+      explode-Sheet[64height64wide]_3: -4475804387601613653
+      explode-Sheet[64height64wide]_4: -7524377261800649234
+      explode-Sheet[64height64wide]_5: -2413862256069299159
+      explode-Sheet[64height64wide]_6: 5538959980341795221
+      explode-Sheet[64height64wide]_7: 809845449681939693
+      explode-Sheet[64height64wide]_8: 6750071383465532039
+      explode-Sheet[64height64wide]_9: -8666994442893473690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

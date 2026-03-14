@@ -1,0 +1,41 @@
+# --- Unity Folders to Ignore ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# --- Asset Store and Plugins ---
+/[Aa]ssets/AssetStoreTools*
+
+# --- IDE and Workspace Files ---
+.vs/
+.gradle/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+
+# --- Crash Reports and Logs ---
+sysinfo.txt
+mono_crash.*
+*.log

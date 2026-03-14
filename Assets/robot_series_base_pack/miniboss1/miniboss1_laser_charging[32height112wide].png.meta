@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: beec306d68718c842b93e838790229fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6098758236917080152
+    second: miniboss1_laser_charging[32height112wide]_0
+  - first:
+      213: -3308599836865053999
+    second: miniboss1_laser_charging[32height112wide]_1
+  - first:
+      213: 3780315324188652602
+    second: miniboss1_laser_charging[32height112wide]_2
+  - first:
+      213: 5219790395072268551
+    second: miniboss1_laser_charging[32height112wide]_3
+  - first:
+      213: -5201363680390438269
+    second: miniboss1_laser_charging[32height112wide]_4
+  - first:
+      213: 2836206149016741077
+    second: miniboss1_laser_charging[32height112wide]_5
+  - first:
+      213: -3440629690209101826
+    second: miniboss1_laser_charging[32height112wide]_6
+  - first:
+      213: 7736978781503623939
+    second: miniboss1_laser_charging[32height112wide]_7
+  - first:
+      213: -4024490747848293199
+    second: miniboss1_laser_charging[32height112wide]_8
+  - first:
+      213: -5715361823716388634
+    second: miniboss1_laser_charging[32height112wide]_9
+  - first:
+      213: 6563329219114439573
+    second: miniboss1_laser_charging[32height112wide]_10
+  - first:
+      213: 6711537192812410240
+    second: miniboss1_laser_charging[32height112wide]_11
+  - first:
+      213: -8467628225301782989
+    second: miniboss1_laser_charging[32height112wide]_12
+  - first:
+      213: -5309086365278883424
+    second: miniboss1_laser_charging[32height112wide]_13
+  - first:
+      213: 1005331146847811468
+    second: miniboss1_laser_charging[32height112wide]_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 117
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8502e6acd4423a450800000000000000
+      internalID: 6098758236917080152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da3eb36afd7512d0800000000000000
+      internalID: -3308599836865053999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34fa3522c0667430800000000000000
+      internalID: 3780315324188652602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709474c65bb607840800000000000000
+      internalID: 5219790395072268551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a5ba6a4b01d7b0800000000000000
+      internalID: -5201363680390438269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 9
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4ebe5377a3c5720800000000000000
+      internalID: 2836206149016741077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79c67a68d6040d0800000000000000
+      internalID: -3440629690209101826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031242a5354f5b60800000000000000
+      internalID: 7736978781503623939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_8
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b408acccf22628c0800000000000000
+      internalID: -4024490747848293199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 8
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05e8ed3b4fea0b0800000000000000
+      internalID: -5715361823716388634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 7
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59312499621a51b50800000000000000
+      internalID: 6563329219114439573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 8
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085f762848b242d50800000000000000
+      internalID: 6711537192812410240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_12
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 7
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ed0d41ef0fc7a80800000000000000
+      internalID: -8467628225301782989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_13
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 8
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1beab54165256b0800000000000000
+      internalID: -5309086365278883424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss1_laser_charging[32height112wide]_14
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 7
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ff710a57a3fd00800000000000000
+      internalID: 1005331146847811468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miniboss1_laser_charging[32height112wide]_0: 6098758236917080152
+      miniboss1_laser_charging[32height112wide]_1: -3308599836865053999
+      miniboss1_laser_charging[32height112wide]_10: 6563329219114439573
+      miniboss1_laser_charging[32height112wide]_11: 6711537192812410240
+      miniboss1_laser_charging[32height112wide]_12: -8467628225301782989
+      miniboss1_laser_charging[32height112wide]_13: -5309086365278883424
+      miniboss1_laser_charging[32height112wide]_14: 1005331146847811468
+      miniboss1_laser_charging[32height112wide]_2: 3780315324188652602
+      miniboss1_laser_charging[32height112wide]_3: 5219790395072268551
+      miniboss1_laser_charging[32height112wide]_4: -5201363680390438269
+      miniboss1_laser_charging[32height112wide]_5: 2836206149016741077
+      miniboss1_laser_charging[32height112wide]_6: -3440629690209101826
+      miniboss1_laser_charging[32height112wide]_7: 7736978781503623939
+      miniboss1_laser_charging[32height112wide]_8: -4024490747848293199
+      miniboss1_laser_charging[32height112wide]_9: -5715361823716388634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
